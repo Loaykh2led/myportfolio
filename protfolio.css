@@ -26,7 +26,7 @@ header{
     animation-name:header;
     animation-duration: 1.5s;
     animation-direction: reverse; 
-    animation-iteration-count: 50;
+    animation-iteration-count: 500;
     animation-direction: alternate;  
 
 }
@@ -119,7 +119,7 @@ section{
     animation-name:main-btm ;
     animation-duration: 1.5s;
     animation-direction: reverse; 
-    animation-iteration-count: 50;
+    animation-iteration-count: 500;
     animation-direction: alternate;  
 
 }
